@@ -15,4 +15,4 @@ Official website for **ERN Elevators**, built using HTML, CSS, and JavaScript.
 ## How to Run
 1. Repository download ya clone karein:
    ```bash
-   git clone [https://github.com/iamahendra01/ern-elevators-site.git](https://github.com/iamahendra01/ern-elevators-site.git)
+   (https://github.com/iamahendra01/ern-elevators-site.git)
